@@ -1,2 +1,2 @@
-# substrate-multichain-config
+# Substrate Multichain Config
 Substrate Multichain Configuration

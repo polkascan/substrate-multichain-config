@@ -1,0 +1,10 @@
+{
+  "network": ["kusama"],
+  "revision": 1,
+  "runtime": ["1062"],
+  "runtime-file-extension": "wasm",
+  "metadata": ["1020", "1021", "1022", "1023", "1024", "1025", "1027", "1028", "1029", "1030", "1031", "1032", "1033", "1038", "1039", "1040", "1042", "1045", "1050", "1051", "1052", "1053", "1054", "1055", "1058", "1062"],
+  "metadata-file-extension": "spec",
+  "type-registry": ["default.json", "kusama.json"],
+  "environment": "kusama.env"
+}
